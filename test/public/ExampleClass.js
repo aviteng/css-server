@@ -2,6 +2,9 @@ import styles from './ExampleClass.css';
 
 export default class ExampleClass {
   constructor() {
-    console.log(styles.exampleSelector);
+    const div = document.createElement('div');
+    div.className = styles.exampleSelector;
+
+    document.body.appendChild(div);
   }
 }
