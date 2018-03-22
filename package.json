@@ -4,6 +4,14 @@
   "description": "On the fly css module builder",
   "main": "index.js",
   "author": "Bulent Vural <bulentv@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aviteng/css-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aviteng/css-server/issues"
+  },
+  "homepage": "https://github.com/aviteng/css-server#readme",
   "contributors": [
     "Mehmet Baker <mehmet.baker@gmail.com>"
   ],
