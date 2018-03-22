@@ -6,5 +6,9 @@ export default class ExampleClass {
     div.className = styles.exampleSelector;
 
     document.body.appendChild(div);
+   
+    setTimeout(() => {
+      div.className += ' ' + styles.secondExampleSelector;
+    }, 2000);
   }
 }
