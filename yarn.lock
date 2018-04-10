@@ -339,3 +339,7 @@ vary@~1.1.2:
 vlq@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/vlq/-/vlq-1.0.0.tgz#8101be90843422954c2b13eb27f2f3122bdcc806"
+
+webix@^5.2.1:
+  version "5.2.1"
+  resolved "https://registry.yarnpkg.com/webix/-/webix-5.2.1.tgz#9d9ffbc21276011c1d2c5f645119df5db0290f54"
